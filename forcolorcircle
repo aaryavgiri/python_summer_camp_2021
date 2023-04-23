@@ -1,0 +1,12 @@
+import turtle
+
+p = turtle.Pen()
+turtle.bgcolor('black')
+i = 0
+
+colors = ["red","blue","green","yellow"]
+
+p.speed(50)
+turtle.forward(99)
+turtle.left(50)
+turtle.done()
